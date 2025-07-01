@@ -1,6 +1,6 @@
 The Standalone Catalogue Mind Map
 What is this?
-This is a flexible, visual tool designed to help you create and organize learning catalogues, project plans, or any hierarchical information. It's built as a standalone mind map application, which means:
+This is a flexible, visual tool designed to help you create and organize learning catalogues, project plans, or any hierarchical information. It's built as a standalone application, which means:
 
 It's Your Personal Copy: All data is saved directly to your web browser's localStorage. Your changes are private to you and will only appear on the computer and browser you are using.
 
@@ -34,3 +34,4 @@ Add a Custom Field: On any detail card, click the bottom + button to add a new, 
 Click the red - button on any level, detail card, or custom field to remove it permanently.
 
 All of your changes are saved automatically as you make them.
+
