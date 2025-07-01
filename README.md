@@ -1,4 +1,4 @@
-The Gist: What is this Application?
+*The Gist: What is this Application?*
 
 This is a flexible, visual tool designed to help you create and organize learning catalogues or any hierarchical information. It's built as a standalone mind map, which means:
 
