@@ -269,6 +269,10 @@
                     toggleIcon.textContent = '▼';
                     nodeEl.appendChild(toggleIcon);
                     nodeEl.addEventListener('click', (e) => {
+                        // **FIX:** Only toggle if the click is not on an editable part or a button
+                        if (e.target.closest('button') || e.target.isContentEditable) {
+                            return;
+                        }
                         if (nodeData.type === 'track') toggleCollapse(nodeData.id, 'track');
                         if (nodeData.type === 'level') toggleCollapse(nodeData.id, 'level', parentData.id);
                     });
