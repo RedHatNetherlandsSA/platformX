@@ -1,6 +1,6 @@
-*The Gist: What is this Application?*
-
-This is a flexible, visual tool designed to help you create and organize learning catalogues or any hierarchical information. It's built as a standalone mind map, which means:
+The Standalone Catalogue Mind Map
+What is this?
+This is a flexible, visual tool designed to help you create and organize learning catalogues, project plans, or any hierarchical information. It's built as a standalone mind map application, which means:
 
 It's Your Personal Copy: All data is saved directly to your web browser's localStorage. Your changes are private to you and will only appear on the computer and browser you are using.
 
@@ -9,18 +9,19 @@ Offline-Friendly: Because it saves locally, you don't need an internet connectio
 Fully Editable: Every part of the mind map, from the main tracks down to the smallest detail, can be customized on the fly.
 
 How to Use It: A Quick Guide
-
 You can interact with the mind map in several ways:
 
-Edit Any Text: To change the name of a track, level, or any field on a card, simply click on the text and start typing.
+1. Edit Any Text
 
-Expand & Collapse Sections:
+To change the name of a track, level, or any field on a card, simply click directly on the text and start typing.
 
-Click on a main track (like "Developer") to show or hide its levels (101, 201, etc.).
+2. Expand & Collapse Sections
 
-Click on a level (like "101") to show or hide the detailed sub-level cards underneath it. Only one level per track can be open at a time to keep the view clean.
+Tracks: Click anywhere on a main track node (e.g., "Developer") to show or hide its levels. Only one track can be open at a time.
 
-Add New Items:
+Levels: Click on a level node (e.g., "101") to show or hide the detailed sub-level cards underneath it. Only one level per track can be open at a time to keep the view focused.
+
+3. Add New Items
 
 Add a New Level: Click the green + button on a main track (e.g., "Developer") to add a new level (e.g., "501").
 
@@ -28,7 +29,7 @@ Add a Detail Card: Click the green + button on a level (e.g., "101") to add a ne
 
 Add a Custom Field: On any detail card, click the bottom + button to add a new, custom field with an editable label and value.
 
-Remove Items:
+4. Remove Items
 
 Click the red - button on any level, detail card, or custom field to remove it permanently.
 
